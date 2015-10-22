@@ -14,7 +14,7 @@ label {
   }
 
 #inputid{
-width:340px;
+width:330px;
 height:40px;
 }
 
